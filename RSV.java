@@ -1,4 +1,6 @@
-
+/* Author: Md Farhadur Reza
+ * Program Description: Prepare Term Document Incident Matrix and Inverted Index from Documents
+*/
 public class RSV implements Comparable<RSV>
 {
     String doc;
