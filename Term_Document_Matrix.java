@@ -1,9 +1,5 @@
 /* Author: Md Farhadur Reza
- * CLID: mxr7945
- * Class: CSCE 561
- * Assignment: Assignment 2
  * Program Description: Prepare Term Document Incident Matrix and Inverted Index from Documents
- * Certificate of Authenticity: I certify that I did this assignment.
 */
 
 import java.text.DecimalFormat;
